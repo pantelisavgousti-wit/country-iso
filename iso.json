@@ -39325,6 +39325,17 @@
     },
     {
         "keys": [
+            "SY-XX",
+            "SY",
+            "SYR-XX",
+            "SYR"
+        ],
+        "latitude": 35.216667,
+        "longitude": 38.583333,
+        "name": "SYRIAN ARAB REPUBLIC"
+    },
+    {
+        "keys": [
             "SZ-HH"
         ],
         "latitude": -26,
